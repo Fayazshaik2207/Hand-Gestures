@@ -1,0 +1,11 @@
+0 Agreement
+1 Call me
+2 Dislike
+3 Greetings
+4 Hi
+5 IloveYou
+6 Like
+7 LoveHope
+8 Protest
+9 Question
+10 Smile
